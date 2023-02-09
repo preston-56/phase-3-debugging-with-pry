@@ -8,9 +8,6 @@
 
 ## Introduction
 
-We'll cover Pry, a type of REPL, and discuss how to install and use it to debug
-a program.
-
 ## What Is a REPL?
 
 You've already been introduced to REPLs through using IRB (Interactive Ruby).
